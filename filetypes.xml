@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="16">
     <extensionMap>
       <mapping pattern="intranet" type="JavaScript" />
+      <mapping ext="pid" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
