@@ -2,11 +2,23 @@
   <component name="NodeJsLocalInterpreters">
     <local-interpreter path="C:/Program Files/nodejs/node.exe">
       <version-cache version="5.10.0" last-modified="1459468484000" />
-      <npm-package value="C:\Program Files\nodejs\node_modules\npm" />
+      <npm-package value="C:/Program Files/nodejs/node_modules/npm" />
     </local-interpreter>
     <local-interpreter path="C:/Program Files (x86)/nodejs/node.exe" excluded="true" />
   </component>
   <component name="NodeLocalInterpreterManager">
-    <node-interpreter path="C:/Program Files (x86)/nodejs/node.exe" version="(Does not exist)" last-modified="1459513009494" />
+    <node-interpreter path="C:/Program Files (x86)/nodejs/node.exe" version="(Does not exist)" last-modified="1464968208040" />
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="https://inanna.telitec.net/repos/node/trunk/" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="https://inanna.telitec.net/repos/node/trunk/" />
+      </list>
+    </option>
   </component>
 </application>
